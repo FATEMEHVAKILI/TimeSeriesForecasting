@@ -1,2 +1,2 @@
-# TimeSeriesForecasting
-In this Project, Time Series Algorithms has been applied on World Bank data (IRAN).
+# Time Series Forecasting
+In this project, time series algorithms were applied to World Bank data (IRAN).
